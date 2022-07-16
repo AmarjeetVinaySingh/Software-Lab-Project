@@ -42,6 +42,7 @@ import com.solibri.smc.api.model.PropertyType;
 public final class widthandcapacity extends OneByOneRule {
 
 	//minimum corridor width
+	//this code is created for Software lab 
 	
 	private final RuleParameters params = RuleParameters.of(this);
 
@@ -62,7 +63,7 @@ public final class widthandcapacity extends OneByOneRule {
 		
 		
 		
-		if (component.getName().contains("Corridor") )
+		if (component.getName().contains("Corridor"))
 		{
 			//main	
 			AABB3d componentBounds = component.getBoundingBox();
