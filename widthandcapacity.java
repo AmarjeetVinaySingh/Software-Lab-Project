@@ -63,12 +63,12 @@ public final class widthandcapacity extends OneByOneRule {
 		
 		
 		
-		if (component.getName().contains("Corridor"))
+		if (component.getName().contains("Space"))
 		{
 			//main	
 			AABB3d componentBounds = component.getBoundingBox();
 			//double corridorLength = componentBounds.getSizeX();
-			double corridorWidth = componentBounds.getSizeY();
+			double corridorWidth = componentBounds.getSizeZ();
 			//bounding box doesn't go all the way to the walls -> get the x width differently...
 			//double corridorwidth = componentBounds.getSizeX();
 			//
@@ -79,7 +79,7 @@ public final class widthandcapacity extends OneByOneRule {
 			/*
 			 * Check if the component does not exceed the maximum height.
 			 */
-			if (corridorWidth <= maximumAllowedwidth) {
+			if (corridorWidth >= maximumAllowedwidth) {
 				/*
 				 * Return an empty collection of results because the component height does not
 				 * exceed the maximum allowed height.
