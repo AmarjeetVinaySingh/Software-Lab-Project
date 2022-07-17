@@ -10,6 +10,18 @@ Occupiable spaces, habitable spaces and corridors shall have a ceiling height of
 above the finished floor. Bathrooms, toilet rooms, kitchens, storage rooms and laundry rooms 
 shall have a ceiling height of not less than 7 feet (2134mm) above the finished floor.
 
+Exceptions:
+
+1. In one- and two-family dwellings, beams or girders spaced not less than 4 feet (1219 mm) on center shall be
+permitted to project not more than 6 inches (152 mm) below the required ceiling height.
+2. If any room in a building has a sloped ceiling, the prescribed ceiling height for the room is required in one-half the
+area thereof. Any portion of the room measuring less than 5 feet (1524 mm) from the finished floor to the ceiling shall
+not be included in any computation of the minimum area thereof.
+3. The height of mezzanines and spaces below mezzanines shall be in accordance with Section 505.2.
+4. Corridors contained within a dwelling unit or sleeping unit in a Group R occupancy shall have a ceiling height of not
+less than 7 feet (2134 mm) above the finished floor
+
+
 Auther : Amarjeet Singh
 Course : Software Lab 
 
