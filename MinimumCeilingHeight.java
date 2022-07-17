@@ -18,7 +18,7 @@ Course : Software Lab
 /*
 This code is functional conditionally. 
 This code is yet not functional for the exceptions of the subject clause.
-I plan to implement Exceptions in the next semester.
+I plan to implement Exceptions in the upcoming semester.
  */
 
 import java.text.MessageFormat;
