@@ -1,7 +1,7 @@
 package com.solibri.rule;
 
 /*
- 
+
  Building Code 2018 of Kansas
  
  1207.2 Minimum Ceiling Heights
@@ -14,6 +14,11 @@ Auther : Amarjeet Singh
 Course : Software Lab 
 
 */
+
+/*
+This code is functional conditionally. 
+This code is yet not functional for the exceptions of the subject clause.
+ */
 
 import java.text.MessageFormat;
 import java.util.Collection;
