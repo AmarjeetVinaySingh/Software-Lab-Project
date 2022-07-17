@@ -1,6 +1,6 @@
 package com.solibri.smc.api.examples.beginner;
 
-/* This code as of now just filters out all the corridors as per the filter set by the user */
+/* This code as of now just filters out all the corridors as per the filter set by the user.Futher development planned */
 
 /*1020.2 Width and Capacity
 
