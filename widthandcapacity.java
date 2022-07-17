@@ -1,5 +1,7 @@
 package com.solibri.smc.api.examples.beginner;
 
+/* This code as of now just filters out all the corridors as per the filter set by the user */
+
 /*1020.2 Width and Capacity
 
 The required capacity of corridors shall be determined as specified in Section 1005.1, but the minimum width shall be not less than that specified in Table 1020.2.
