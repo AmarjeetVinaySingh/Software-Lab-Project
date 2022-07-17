@@ -17,10 +17,10 @@ OCCUPANCY	                                                                      
 Any facility not listed in this table	                                                  44
 Access to and utilization of mechanical, plumbing or electrical systems or equipment	  24
 With an occupant load of less than 50	                                                  36
-Within a dwelling unit	                                                                  36
+Within a dwelling unit	                                                                36
 In Group E with a corridor having an occupant load of 100 or more	                      72
-In corridors and areas serving stretcher traffic in ambulatory care facilities	          72
-Group I-2 in areas where required for bed movement	                                      96
+In corridors and areas serving stretcher traffic in ambulatory care facilities	        72
+Group I-2 in areas where required for bed movement	                                    96
 For SI: 1 inch = 25.4 mm.
 
 
